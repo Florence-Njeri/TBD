@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The wishlist projects will keep track of a persons desired wishlist e.g books, clothes, furniture etc.
 
 Things you may want to cover:
 
